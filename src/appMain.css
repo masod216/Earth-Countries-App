@@ -1,0 +1,13 @@
+.appMain {
+    text-align: center;
+}
+
+.inputWrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.inputWrapper input {
+    margin-left: 10px;
+}
